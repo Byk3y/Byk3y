@@ -25,9 +25,10 @@
 ## 📊 Performance & Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Byk3y&show_icons=true&theme=dark&bg_color=0d1117&title_color=3ECF8E&icon_color=3ECF8E&text_color=c9d1d9" alt="Francis's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byk3y&layout=compact&theme=dark&bg_color=0d1117&title_color=3ECF8E&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Byk3y&show_icons=true&theme=dark" alt="Francis's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byk3y&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
 
 ## 📡 Connect
 
