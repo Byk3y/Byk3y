@@ -22,13 +22,19 @@
 
 [![GitHub Activity Graph](https://ghchart.rshah.org/3ECF8E/Byk3y)](https://github.com/Byk3y)
 
-## 📊 Performance & Stats
+## 🏆 Trophy Room
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Byk3y&show_icons=true&theme=dark" alt="Francis's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byk3y&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=Byk3y&theme=darkhub&no-frame=true&column=4&margin-w=15" alt="Francis's Trophies" />
 </p>
 
+## 🛠️ Tech Stack & Ecosystem
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,expo,supabase,deno,py,fastapi,ai,figma,github,vercel,postman&theme=dark" />
+  </a>
+</p>
 
 ## 📡 Connect
 
