@@ -50,3 +50,4 @@
 - Treat AI agents as **slot machines for productivity**.
 - Always exploring how LLMs are changing the fundamental nature of software.
 - Focus is the ultimate currency.
+- Building together with OPENCLAW AND CLAUDE CODE
