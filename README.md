@@ -22,11 +22,11 @@
 
 [![GitHub Activity Graph](https://ghchart.rshah.org/3ECF8E/Byk3y)](https://github.com/Byk3y)
 
-## 🏆 Trophy Room
+## 📊 Quick Metrics
 
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=Byk3y&theme=darkhub&no-frame=true&column=4&margin-w=15" alt="Francis's Trophies" />
-</p>
+[![Stars](https://img.shields.io/github/stars/Byk3y/Brigo?style=flat-square&label=Brigo%20Stars&color=3ECF8E)](https://github.com/Byk3y/Brigo)
+[![Commits](https://img.shields.io/badge/Status-Active-3ECF8E?style=flat-square&label=Commits)](https://github.com/Byk3y)
+[![Followers](https://img.shields.io/github/followers/Byk3y?style=flat-square&label=Followers&color=3ECF8E)](https://github.com/Byk3y?tab=followers)
 
 ## 🛠️ Tech Stack & Ecosystem
 
