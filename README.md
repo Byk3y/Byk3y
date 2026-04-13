@@ -1,6 +1,6 @@
 # Hi, I'm Francis 👋
 
-🤖 **AI-Native Builder** | 🚀 **Founder @brigo-app** | ✨ **Vibe Coder**
+🤖 **AI-Native Builder** | 🚀 **Founder @brigo-app** 
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Byk3y)
 [![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)](https://brigo.app)
